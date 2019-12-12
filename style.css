@@ -1,0 +1,55 @@
+nav {
+    background-color: blue;
+}
+
+.btn {
+    border-radius: 5px;
+    display: inline-block;
+    margin: auto 0;
+    border: 1px solid #dfe2e5;
+    padding: 10px 30px;
+    color: white;
+}
+
+.submitBtn {
+    border-radius: 5px;
+    display: inline-block;
+    margin: auto 0;
+    border: 1px solid #dfe2e5;
+    padding: 10px 30px;
+    background-color: green;
+    color: white;
+}
+
+.editBtn {
+    border-radius: 5px;
+    display: inline-block;
+    margin: auto 0;
+    border: 1px solid yellow;
+    padding: 10px 30px;
+    color: yellow;
+}
+
+.deleteBtn {
+    border-radius: 5px;
+    display: inline-block;
+    margin: auto 0;
+    border: 1px solid red;
+    padding: 10px 30px;
+    background-color: white;
+    color: red;
+}
+
+.navTitle {
+    display: inline;
+    color: white;
+    font-size: medium;
+}
+
+h2 {
+    font-size: medium;
+}
+
+.titles {
+    display: inline-block;
+}
